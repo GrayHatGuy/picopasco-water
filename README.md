@@ -24,7 +24,7 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   
       correct to center of **[soilUL] [soilLL]**
   
-      ***start -> sensor scan for [waterIntSP] ms -> if sensor fall out of target range -> repeat irigation with [doseSP] util target is reached***
+      ***start -> sensor scan for [waterIntSP] ms -> if sensor fall out of target range -> repeat irigation with [doseSP] then dwell for [df] util target is reached***
 
 
   - **OFF [ctlmode] = 0**
