@@ -13,12 +13,12 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   - Monitor the current min and max measurents obtained by the sensors
   - Update **[soilUL] [soilLL]** limits outside of the measurement variation 
 ## demos:
-  - **TIMER** mode **[ctlmode] = 1**
+  - **TIMER [ctlmode] = 1**
     * timing
     * vid
-  - **AUTO** mode **[ctlmode] = -1**
+  - **AUTO [ctlmode] = -1**
     * timing
     * vid
-  - **OFF** mode **[ctlmode] = 0**
+  - **OFF [ctlmode] = 0**
     * timing
     * vid
