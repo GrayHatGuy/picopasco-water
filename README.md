@@ -15,10 +15,10 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
 ## details/demos:
   - **TIMER [ctlmode] = 1** - [_demo_]()
       * **control:** open loop no target correction
-      * **timing:** _start -> sensor scan for [waterIntSP] ms -> irrigate for [doseSP] ms -> soak delay for [df] = 2 * [doseSP] ms -> repeat_
+      * **timing:** _start -> sensor scan for [waterIntSP] ms -> irrigate with [doseSP] ms -> soak delay read for [df] = 2 * [doseSP] ms -> reset timer -> repeat_
   - **AUTO [ctlmode] = -1** - [_demo_]()
       * **control:** closed loop continual correction target center of **[soilUL] [soilLL]**
-      * **timing:** _start -> sensor scan for [waterIntSP] ms -> if sensor is out of target range -> repeat irigation with [doseSP] then dwell for [df] util target is reached_
+      * **timing:** _start -> sensor scan for [waterIntSP] ms -> if sensor is out of target range -> irigate with [doseSP] then soak delay read for [df] until target is reached_
   - **OFF [ctlmode] = 0** - [_demo_]()
       * **control:** none hydration off
       * **timing:** _start -> sensor scan_
