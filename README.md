@@ -1,6 +1,6 @@
 # picopasco-water
 closed and open loop irrigation control using relays to activate pumps based upon moisture sensor feedback and user input control limits..
-## Requirements
+## requirements
 see [picopasco](https://github.com/GrayHatGuy/picopasco#parts) for wiring diagram and hardware (relays, pumps, MCU)
 ## how to:
 * update inputs
