@@ -14,10 +14,10 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   - Update **[soilUL] [soilLL]** limits outside of the measurement variation 
 ## demos:
   - **TIMER [ctlmode] = 1**
-    * timing
+    * start -> sensor scan for [waterIntSP] ms -> irrigate for [doseSP] ms -> soak delay for [df] = 2 * [doseSP] ms -> repeat
     * vid
   - **AUTO [ctlmode] = -1**
-    * timing
+    * start -> sensor scan for [waterIntSP] ms -> irrigate for [doseSP] ms -> soak delay for [df] = 2 * [doseSP] ms -> repeat
     * vid
   - **OFF [ctlmode] = 0**
     * timing
