@@ -1,5 +1,5 @@
 # picopasco-water
-automatically water plants based on moisture sensor feedback
+automatically water plants based upon moisture sensor feedback
 ## requirements
 see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware (sensor, relay, pump, MCU) and wiring diagrams.
 ## how to:
