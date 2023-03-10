@@ -14,11 +14,11 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   - Update **[soilUL] [soilLL]** limits outside of the measurement variation 
 ## demos:
   - **TIMER** mode **[ctlmode] = 1**
-    -timing diagram
-    -vid
+    * timing
+    * vid
   - **AUTO** mode **[ctlmode] = -1**
-    -timing diagram
-    -vid
+    * timing
+    * vid
   - **OFF** mode **[ctlmode] = 0**
-    -timing diagram
-    -vid
+    * timing
+    * vid
