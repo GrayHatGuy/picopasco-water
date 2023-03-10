@@ -1,8 +1,7 @@
 # picopasco-water
-set the sensor moisture levels to automatically hydrate plants. 
-_a closed or open loop irrigation control using relays to activate pumps based upon moisture sensor feedback and user input control limits_
+automatically water plants based on moisture sensor feedback
 ## requirements
-see [picopasco](https://github.com/GrayHatGuy/picopasco#parts) for wiring diagram and hardware (relays, pumps, MCU)
+see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware (sensor, relay, pump, MCU) and wiring diagrams.
 ## how to:
 * update inputs
   - **[soilUL] [soilLL]** upper and lower moisture sensor limits 
@@ -15,6 +14,11 @@ see [picopasco](https://github.com/GrayHatGuy/picopasco#parts) for wiring diagra
   - Update **[soilUL] [soilLL]** limits outside of the measurement variation 
 ## demos:
   - **TIMER** mode **[ctlmode] = 1**
+    -timing diagram
+    -vid
   - **AUTO** mode **[ctlmode] = -1**
+    -timing diagram
+    -vid
   - **OFF** mode **[ctlmode] = 0**
-  
+    -timing diagram
+    -vid
