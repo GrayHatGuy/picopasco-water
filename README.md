@@ -5,7 +5,7 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
 ## how to:
 * update inputs
   - **[soilUL] [soilLL]** - upper and lower moisture sensor limits 
-  - **[ctlmode]** - fully AUTO closed loop = -1; TIMER open loop = 1 [default]; off = 0
+  - **[ctlmode]** - fully AUTO closed loop = -1; TIMER open loop = 1 [default]; OFF = 0
   - **[doseSP]** - target dispense dosage per pump trigger
   - **[waterIntSP]** - open loop trigger period for dispense check 
 * tuning
