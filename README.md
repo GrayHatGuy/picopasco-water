@@ -12,7 +12,7 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   - Set **[ctlmode] = 0** this will turn off hydration  
   - Monitor the current min and max measurents obtained by the sensors
   - Update **[soilUL] [soilLL]** limits outside of the measurement variation 
-## demos:
+## details/demos:
   - **TIMER [ctlmode] = 1**
   
       no target correction
