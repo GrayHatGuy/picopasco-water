@@ -8,6 +8,10 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
 
 ## how to:
 
+* wiring 
+
+![image](https://github.com/GrayHatGuy/picopasco-water/blob/93da9541c35fa700cd6ab06cf1b844db552e3922/picopasco-water-wiring.png)
+
 * update inputs
 
   - **[soilUL] [soilLL]** - upper and lower moisture sensor limits 
