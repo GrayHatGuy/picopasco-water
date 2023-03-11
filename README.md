@@ -2,6 +2,8 @@
 
 automatically water plants based upon moisture sensor feedback
 
+![image](https://github.com/GrayHatGuy/picopasco-water/blob/6bf44768abad50d30a800cb3156aeb3c3cee7acf/picopasco-water-layout2.jpeg)
+
 ## requirements
 
 see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware (sensor, relay, pump, MCU) with wiring and firmware details below.
