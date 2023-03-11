@@ -35,9 +35,10 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   - **TIMER [ctlmode] = 1** 
     * [_firmware output_](https://youtube.com/shorts/7hno1aNq0y4?feature=share) 
      
-  - **AUTO [ctlmode] = -1** - 
+  - **AUTO [ctlmode] = -1**
     * [_firmware output_](https://youtu.be/WC2HDOqH6xY) 
       
-  - **OFF [ctlmode] = 0** - See scan examples above.
+  - **OFF [ctlmode] = 0** 
+    * see scan examples above.
 
      
