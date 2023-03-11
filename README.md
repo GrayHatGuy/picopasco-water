@@ -4,7 +4,7 @@ automatically water plants based upon moisture sensor feedback
 
 ## requirements
 
-see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware links (sensor, relay, pump, MCU).
+see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware (sensor, relay, pump, MCU) with wiring and firmware details below.
 
 ## how to:
 
@@ -12,7 +12,7 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
 
 ![image](https://github.com/GrayHatGuy/picopasco-water/blob/93da9541c35fa700cd6ab06cf1b844db552e3922/picopasco-water-wiring.png)
 
-* update inputs
+* firmware inputs
 
   - **[soilUL] [soilLL]** - upper and lower moisture sensor limits 
   - **[ctlmode]** - fully AUTO closed loop = -1; TIMER open loop = 1 [default]; OFF = 0
