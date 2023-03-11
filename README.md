@@ -44,6 +44,6 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
   - **OFF [ctlmode] = 0** 
     * see scan examples above.
 
-  [_#soon vids in operation_]()
+  [_operational demo_](https://youtu.be/i5UP44l4Cr4)
 
      
