@@ -10,7 +10,7 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
 
 * wiring 
 
-![image](https://github.com/GrayHatGuy/picopasco-water/blob/93da9541c35fa700cd6ab06cf1b844db552e3922/picopasco-water-wiring.png)
+![image](https://github.com/GrayHatGuy/picopasco-water/blob/47aa70fdd3693d7fd8305aa7a06bb26d520f305f/picopasco-water-wiring.png)
 
 * firmware inputs
 
