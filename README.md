@@ -32,10 +32,10 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
  ![image](https://github.com/GrayHatGuy/picopasco-water/blob/6387f54660eea0ac7d279fe3ec2b2359eec4048d/picopasco-water-controls.png)
 
 ### demos 
-  - **TIMER [ctlmode] = 1** - [_demo_]()
+  - **TIMER [ctlmode] = 1** - setup: [_demo_]() [_terminal ouptput_]() 
      
-  - **AUTO [ctlmode] = -1** - [_demo_]()
+  - **AUTO [ctlmode] = -1** - setup: [_demo_]() [_terminal ouptput_]() 
       
-  - **OFF [ctlmode] = 0** - [_demo_]()
+  - **OFF [ctlmode] = 0** - See scan output above.
 
      
