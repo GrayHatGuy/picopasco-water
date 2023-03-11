@@ -29,7 +29,7 @@ see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware
 
 ### controls
 
- ![image]([https://github.com/GrayHatGuy/picopasco-water/blob/c13cb4fbaa6a2ea24d01a6d176c772c543ddec8f/picopasco-water-controls.png](https://github.com/GrayHatGuy/picopasco-water/blob/47aa70fdd3693d7fd8305aa7a06bb26d520f305f/picopasco-water-wiring.png))
+ ![image](https://github.com/GrayHatGuy/picopasco-water/blob/b40f9f2f31da47c073cc76731ab12daeee8520b6/picopasco-water-controls.png)
 
 ### demos 
   - **TIMER [ctlmode] = 1** 
