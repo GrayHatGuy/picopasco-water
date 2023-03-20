@@ -2,7 +2,7 @@
 
 automatically water plants based upon moisture sensor feedback
 
-![image](https://github.com/GrayHatGuy/picopasco-water/blob/6bf44768abad50d30a800cb3156aeb3c3cee7acf/picopasco-water-layout2.jpeg)
+![image](https://github.com/GrayHatGuy/picopasco-water/blob/f9d186949b299253bf801533ec1c9ac6cd0e35dd/picts/IMG_6668.JPG)
 
 ## requirements
 
