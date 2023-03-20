@@ -8,6 +8,14 @@ automatically water plants based upon moisture sensor feedback
 
 see [picopasco-main](https://github.com/GrayHatGuy/picopasco#parts) for hardware (sensor, relay, pump, MCU) with wiring and firmware details below.
 
+### parts: 
+  #### minimum _(by firmware design)_
+   *  $6.00  [rp2040 pico  - (pico w optional)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+   *  $3.70  [relays 5 volt spst](https://www.amazon.com/gp/product/B00LW15A4W)
+   *  $10.76 [5 volt pump](https://www.amazon.com/gp/product/B07T6GDNT3/)
+      -alternate pump $3.25 [low cost ](https://www.amazon.com/Gikfun-2-5V-6V-Submersible-Silicone-EK1374/dp/B0957BS936/)
+      
+  #### $12.95 - $20.46 Total cost of materials
 ## how to:
 
 * wiring 
