@@ -52,6 +52,6 @@ see wiring and firmware details below.
   - **OFF [ctlmode] = 0** 
     * see scan examples above.
 
-  [_operational demo_](https://youtu.be/i5UP44l4Cr4)
+## [_operational demo_](https://youtu.be/i5UP44l4Cr4)
 
      
